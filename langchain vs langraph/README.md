@@ -1,5 +1,17 @@
 # LangChain vs LangGraph: Comprehensive Comparison
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/langgraph_hero.png" alt="LangGraph Banner" width="800"/>
+  
+  <p>
+    <a href="https://python.langchain.com/"><img src="https://img.shields.io/badge/LangChain-Framework-blue?style=for-the-badge&logo=chainlink" alt="LangChain"/></a>
+    <a href="https://langchain-ai.github.io/langgraph/"><img src="https://img.shields.io/badge/LangGraph-Library-green?style=for-the-badge&logo=graphql" alt="LangGraph"/></a>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.9+-yellow?style=for-the-badge&logo=python" alt="Python"/></a>
+  </p>
+</div>
+
+---
+
 ## Table of Contents
 - [Overview](#overview)
 - [Key Differences](#key-differences)
