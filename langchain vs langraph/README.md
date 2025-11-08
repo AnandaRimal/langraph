@@ -1,7 +1,7 @@
 # LangChain vs LangGraph: Comprehensive Comparison
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/langgraph_hero.png" alt="LangGraph Banner" width="800"/>
+  <img src="./OIP (9).jpg" alt="LangChain vs LangGraph" width="800"/>
   
   <p>
     <a href="https://python.langchain.com/"><img src="https://img.shields.io/badge/LangChain-Framework-blue?style=for-the-badge&logo=chainlink" alt="LangChain"/></a>
