@@ -1,0 +1,17 @@
+[project]
+name = "langraph"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+
+dependencies = [
+    "langchain-core",
+    "langchain-community",
+    "langchain-google-genai",
+    "langchain-openai",
+    "langgraph",
+    "python-dotenv",
+    "grandalf>=0.8",
+    "langchain>=1.0.5",
+]
